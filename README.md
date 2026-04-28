@@ -1,5 +1,5 @@
 
-                                     # Hi, I'm Kishan B M👋
+                                     # Hi, I'm KISHAN B M👋
 
 ## 🚀 About Me
 - CSE Student
@@ -36,3 +36,4 @@
 
 ## 📫 Connect with me
 - GitHub: kishanbm19
+- Linkedin: www.linkedin.com/in/kishan-b-m-a20b37317

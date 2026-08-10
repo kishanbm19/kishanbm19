@@ -37,7 +37,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=kishanbm19&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  
   <img src="https://streak-stats.demolab.com/?user=kishanbm19&theme=dark&hide_border=true" width="48%" />
 </p>
 

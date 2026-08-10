@@ -21,7 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DJANGO_REST_FRAMEWORK-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -35,8 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-stats.svg" width="48%" />
-  <img src="./top-languages.svg" width="48%" />
+  <img src="./github-stats.svg" width="600" />
 </p>
 
 ---
@@ -45,12 +44,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanbm19&theme=github-dark&hide_border=true" width="100%" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishanbm19&label=Profile%20Views&style=flat" />
 </p>

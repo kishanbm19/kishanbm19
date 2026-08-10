@@ -9,7 +9,6 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-b-m-a20b37317/)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
@@ -36,12 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kishanbm19&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kishanbm19&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kishanbm19&layout=compact&langs_count=8&theme=dark&hide_border=true" width="48%" />
+  <img src="./github-stats.svg" width="48%" />
+  <img src="./top-languages.svg" width="48%" />
 </p>
 
 ---

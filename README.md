@@ -36,26 +36,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanbm19&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishanbm19&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://streak-stats.demolab.com?user=kishanbm19&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanbm19&layout=compact&langs_count=8&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanbm19&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanbm19&theme=github-dark&hide_border=true" width="100%" />
-</p>
-
----
 
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishanbm19&label=Profile%20Views&style=flat" />
 </p>
+
+---

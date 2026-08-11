@@ -35,12 +35,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanbm19&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kishanbm19&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishanbm19&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanbm19&theme=dark&hide_border=true" width="48%" />
 </p>
 
+---
+
+## 📚 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanbm19&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishanbm19&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishanbm19&theme=github_dark" width="48%" />
 </p>
 
 ---

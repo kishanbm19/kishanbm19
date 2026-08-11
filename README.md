@@ -36,7 +36,14 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishanbm19&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanbm19&theme=dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kishanbm19&theme=dark&hide_border=true" width="70%" />
 </p>
 
 ---

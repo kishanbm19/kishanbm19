@@ -57,6 +57,23 @@
 
 ---
 
+---
+
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishanbm19&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishanbm19&theme=github_dark" width="48%" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kishanbm19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="kishanbm19 profile views" />
+</p>
+
 ## 📈 GitHub Activity
 
 <p align="center">
